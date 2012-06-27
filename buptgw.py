@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #Author: wangkendy
 #2012/6/6
 
